@@ -10,7 +10,7 @@ In this toddler friendly memory game, the goal of the game is to test your memor
 
 ---
 
-![Alt Text](https://imgur.com/a/hkHH0TR) 
+![Alt Text](https://i.imgur.com/HlXEYoa.png) 
 
 ---
 
