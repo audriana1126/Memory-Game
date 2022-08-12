@@ -25,7 +25,6 @@ let message = document.querySelector('.message')
 let matches = document.querySelector('.matches')
 let totalMatches = 0 
 
-
 function buildGame() {
   for (let i = 0; i < cardArray.length; i++) {
   let card = document.createElement('img')

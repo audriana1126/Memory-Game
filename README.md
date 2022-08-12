@@ -1,58 +1,16 @@
-# PROJECT 1! **Browser-based Game**
+# Audriana Evans-Project 1-Memory Game
 
-## **Overview**
+## **Game Description**
 
-Your first SEI project will start out with something fun - **a game!**
-
-Thanks to the amount of logic there is in a game, there's no better app than a game to teach you how to **think like a programmer**!
-
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges**. You got your feet wet with Tic-Tac-Toe, and we built a game or two during class - now it's time to step it up a notch.
-
-**You will be working individually for this project**. However, your instructors and instructor assistants will be guiding you along with up to ten 15-minute one-on-one sessions. Be sure to use them wisely :).
-
-As a reminder, GA has a zero plagiarism policy - your project's code **must be substantially yours**. **Do not copy code from other similar projects or other sources**. However, using lines of code from StackOverflow to accomplish general techniques/algorithms is okay - an example would be using StackOverflow as a source for code that replaces a character at a certain position in a string.
+In this toddler friendly memory game, the goal of the game is to test your memory and find all the matching cards that is laid out on the screen. To find  a match, the player must flip two cards that are identical to one another. This will keep going until all the matches are found.
 
 ---
 
-## **Planning & Presentation Requirements**
+## **Pictures**
 
-### **Planning - Due By BOD August 8, 2022**
+---
+![Screenshot](Game picture.png)
 
-- You will share:
-    
-    ☐ Your choice of game.
-    
-    ☐ A wireframe of your "main" game screen. (Many students find [https://www.figma.com/](https://www.figma.com/) helpful)
-    
-    ☐ Pseudocode for the overall gameplay.
-
-### **Presentation - Friday, August 12th:**
-
-You will have a maximum of 10 minutes to present your project following these guidelines:
-
-1. **Introduce the Project:**
-    
-    ☐ Intro your game by paraphrasing the README.
-    
-2. **Demonstrate the Project:**
-    
-    ☐ Launch the game by clicking the link in the README.
-    
-    ☐ Play the game! If necessary, manipulate the values of variables in the console to ensure a quick win or loss.
-    
-3. **Show/discuss your code:**
-    
-    ☐ Briefly show the HTML & CSS.
-    
-    ☐ Show the JavaScript and discuss your favorite function.
-    
-4. **Share the experience:**
-    
-    ☐ What was your biggest challenge?
-    
-    ☐ What are your key learnings/takeaways?
-    
-5. **Q & A + Feedback**
 
 ---
 

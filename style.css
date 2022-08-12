@@ -11,18 +11,9 @@ h1 {
     padding: 70px 0 0;
 }
 
-ul {
+h2 {
     color: #00478F;
     font-family: 'Anton';
-    list-style: none;
-    margin: 0 0 50px;
-}
-
-li {
-    font-size: 30px;
-    display: inline;
-    padding: 100px; 
-    
 }
 
 
