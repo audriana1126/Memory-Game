@@ -9,95 +9,22 @@ In this toddler friendly memory game, the goal of the game is to test your memor
 ## **Pictures**
 
 ---
-Game picture.png
 
-
----
-
-## **Technical Requirements**
-
-### **Your App Must:**
-
-☐ **Render a game in the browser**.
-
-☐ **Include win and/or loss logic and render win/loss messages in HTML.** Popup alerts using the `alert()` method are okay during development, but not production.
-
-☐ Include separate HTML, CSS & JavaScript files.
-
-☐ Have **properly indented HTML, CSS & JavaScript**. In addition, vertical whitespace needs to be consistent.
-
-☐ No remaining **dead and/or commented out code** (code that will never be called).
-
-☐ Have functions and variables that are named sensibly. Remember, functions are typically named as verbs, and variables (data) are named as nouns.
-
-☐ **Be coded in a consistent** manner. For example, choose between your preference for function declarations vs. function expressions.
-
-☐ **Deploy your game online** using GitHub Pages so that the rest of the world can play your game!
+![Alt Text](https://imgur.com/a/hkHH0TR) 
 
 ---
 
-## **Necessary Deliverables**
+## **Technical Used**
 
-☐ The code for **a working game that meets or exceeds the above technical requirements, built by you, and hosted on GitHub Pages** (covered next week).
+I used HTML first to put in links to the fonts I used. I also added my title and heading as well as classes for my div to help set up my gameboard. 
 
-- **A `README.md` file** with these sections:
-    
-    ☐ **<Your game's title>**: A description of your game. Background info of the game is a nice touch.
-    
-    ☐ **Screenshot(s):** Images of your actual game.
-    
-    ☐ **Technologies Used**: List of the technologies used, e.g., JavaScript, HTML, CSS...
-    
-    ☐ **Getting Started**: In this section include the link to your deployed game and any instructions you deem important.
-    
-    ☐ **Next Steps**: Planned future enhancements (icebox items).
-    
-    > Note: Don't underestimate the value of a well-crafted README.md. The README.md introduces your project to prospective employers and forms their first impression of your work!
-    > 
-
-☐ **Frequent commits dating back to the very beginning of the project**. Commit messages should be in the present tense, e.g., "Style game board" instead of "Styled game board". **Be sure to create the repo on your personal GitHub account and ensure that it is "public".**
+I used javascript to get my game to function the way I needed it to. I used a for loop to set up my gameboard with my pictures. I used conditional statements so the computer can tell when there has or has not been a match and used dom manipulation to be able to flip the cards over to display the picture. 
 
 ---
+### **Link To The Game Here**
 
-## **Choose From the Following Games**
+https://audriana1126.github.io/Memory-Game/
 
-> Note: Games are listed in approximate order of increasing difficulty.
-> 
-0. **Tamagotchi**
-1. **Trivia game**
-2. **War** (the card game)
-3. **Blackjack**
-4. **Slot Machine**
-5. **Simon** (warning: will require asynchronous timing)
-6. **2048**
-7. **Minesweeper**
-8. **Checkers** (no AI required - player vs. player is fine)
-9. **Solitaire**
-10. **Battleship** (would require a little AI to implement a computer opponent)
+### **Next Steps:**
 
-**If you have a game not on the list that you'd like to code, please be sure to get approval from your instructor!**
-
-> *IMPORTANT: Because it's important to demonstrate your ability to perform DOM manipulation using JavaScript, all games should be DOM-based, **not canvas-based**.*
-> 
-
----
-
-## **Suggestions**
-
-- **The BEST advice is to follow the guidelines and principles in the** [Guide to Building a Browser App](https://gist.github.com/jim-clark/6f1919291f6007b2c0b2c93d925d6bac). The guide will give you a step-by-step process to get you started and its MVC design pattern will result in clearer, more concise code that can scale functionality more easily.
-- **Theme your game** to give it a more personal touch and make it more unique!
-- **Use your Development Tools** (`console.log`, DevTools' debugger, `alert` statements) to debug and solve issues.
-- Stick with the **KISS (Keep It Simple Stupid)** principle. Minimum Viable Product (MVP) functionality that looks great is better than extra functionality added to a game without polish.
-- If you choose a card-based game, there is a CSS library in the *resources* directory of the class repo that will help you render **beautiful** cards of any size, front and back.
-- **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version.
-- **Consult documentation and other resources** to better understand methods, etc.
-- Write **DRY (Don't Repeat Yourself)** code. Check for repeating code and refactor into functions that accept arguments.
-
----
-
-## **Project Feedback + Evaluation**
-
-- Your instructors will be evaluating your project during your demonstration as well as reviewing the code in your repo.
-- If your instructors determine that your project does not meet the above requirements (denoted using checkboxes), you will be given 3 calendar days to address the deficiencies identified. However, be aware that **there is only a single opportunity to resubmit a project during the course**. For example, if you have to resubmit Project 1, you will not have an opportunity to resubmit Projects 2, 3, or 4.
-- Immediately after your presentation, your instructor and/or outcomes may provide you with feedback that will benefit your project and perhaps the projects of other students as well.
-- If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
+My next steps are to improve the game features by adding a start button and a instruction button for those who never played before. I would like to add a music button that you can turn on and off according to the players preference. At some point I would also like to add different themes to my game so that kids with different taste in cartoons. 
