@@ -9,7 +9,7 @@ In this toddler friendly memory game, the goal of the game is to test your memor
 ## **Pictures**
 
 ---
-![Screenshot](Game picture.png)
+Game picture.png
 
 
 ---
