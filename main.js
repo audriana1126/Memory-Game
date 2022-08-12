@@ -24,6 +24,12 @@ const allCards = document.querySelector('.game');
 let message = document.querySelector('.message')
 let matches = document.querySelector('.matches')
 let totalMatches = 0 
+let reset = document.querySelector('.reset')
+reset.addEventListener('click', () => {
+window.location.reload()
+})
+
+
 
 function buildGame() {
   for (let i = 0; i < cardArray.length; i++) {
@@ -58,17 +64,15 @@ function checkForMatch() {
   }
   else {
   playingCard[optionOne].setAttribute('src', 'cover.png');
-  playingCard[optionTwo].setAttribute('src', 'cover.png')
-  
+  playingCard[optionTwo].setAttribute('src', 'cover.png');
   console.log(playingCard)
   }
   cardsChosen = []
   cardsChosenId = []
   }
   buildGame()
-
-
-
+  
+  
 
 
 

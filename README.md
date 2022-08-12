@@ -10,7 +10,18 @@ In this toddler friendly memory game, the goal of the game is to test your memor
 
 ---
 
-![Alt Text](https://i.imgur.com/HlXEYoa.png) 
+![Alt Text](https://i.imgur.com/8seEKIN.png) 
+
+This is how it looks when the game starts.
+
+![Alt Text](https://i.imgur.com/pP1i5jS.png)
+
+After you find a match the card match will disapear.
+
+![Alt Text](https://i.imgur.com/OlobCsq.png)
+
+When you find all the matches, you can play again by pressing 'restart'
+
 
 ---
 
