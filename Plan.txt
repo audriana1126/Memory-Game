@@ -1,0 +1,111 @@
+
+//creating the card options
+
+cardArray = {
+    Making 2 of each card/img
+     {
+    name: '1',
+    img: ''
+},
+{
+    name: '2',
+    img: '',
+},
+{
+    name: '3',
+    img: '',
+},
+{
+    name: '4',
+    img: '',
+},
+{
+    name: '5',
+    img: '',
+},
+{
+    name: '6',
+    img: '',
+},
+{
+    name: '7',
+    img: '',
+},
+{
+    name: '8',
+    img: '',
+},
+{
+    name: '9',
+    img: '',
+},
+{
+    name: '10',
+    img: '',
+},
+{
+    name: '11',
+    img: '',
+},
+{
+    name: '12',
+    img: '',
+},
+
+
+
+//connect my grid 
+
+
+//shuffling the cards randomly each game
+
+cardArray => Math.random() * cardArray.length
+
+
+
+//creating a gameBoard
+
+function gameBoard() 
+for (cardArray.length) {
+    set cards = 'img'
+    set cards as attributes for later referencing 
+    give cards an id ranging from 0 - 12 using i from array length
+     add eventListener to see when cards been clicked and then flip it
+
+}
+
+set cardChoice to '' or null
+
+
+
+//turing the card over 
+
+function turnCardOver () {
+    call out card attribute again
+    when card does not match, turn it back over to original grid img
+    if (cardsChoice === 2) check for match 
+}
+
+
+//checking for a match 
+add cardChoice option 1
+add cardChoice option 2
+if (cardChoice option 1 === cardChoice option 2)
+console.log('You found a match!');
+push cards into blank img
+}
+else {
+console.log ('Try again!')
+turn cards back to original cover img
+}
+
+//winning score 
+
+if (cards won === cardArray.length % 2) {
+    console.log('You won!')
+}
+else {
+    console.log('you lost!')
+}
+
+

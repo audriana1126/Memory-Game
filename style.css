@@ -1,0 +1,47 @@
+body {
+    font-family: 'Rubik Marker Hatch';
+    background-color: #B8E2F2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 70px 0 0;
+}
+
+ul {
+    color: #00478F;
+    font-family: 'Anton';
+    list-style: none;
+    margin: 0 0 50px;
+}
+
+li {
+    font-size: 30px;
+    display: inline;
+    padding: 100px; 
+    
+}
+
+
+.game {
+    display: flex;
+    gap: 50px;
+    width: 450px;
+    flex-wrap: wrap;
+    padding: 30px;
+    
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+
+
